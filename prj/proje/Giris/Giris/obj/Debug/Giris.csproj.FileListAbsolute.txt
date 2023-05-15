@@ -1,0 +1,12 @@
+C:\Users\Garwis\Desktop\p5\Giris\Giris\bin\Debug\Giris.exe.config
+C:\Users\Garwis\Desktop\p5\Giris\Giris\bin\Debug\Giris.exe
+C:\Users\Garwis\Desktop\p5\Giris\Giris\bin\Debug\Giris.pdb
+C:\Users\Garwis\Desktop\p5\Giris\Giris\obj\Debug\Giris.csproj.AssemblyReference.cache
+C:\Users\Garwis\Desktop\p5\Giris\Giris\obj\Debug\Giris.Frmyenics.resources
+C:\Users\Garwis\Desktop\p5\Giris\Giris\obj\Debug\Giris.Properties.Resources.resources
+C:\Users\Garwis\Desktop\p5\Giris\Giris\obj\Debug\Giris.csproj.GenerateResource.cache
+C:\Users\Garwis\Desktop\p5\Giris\Giris\obj\Debug\Giris.csproj.CoreCompileInputs.cache
+C:\Users\Garwis\Desktop\p5\Giris\Giris\obj\Debug\Giris.exe
+C:\Users\Garwis\Desktop\p5\Giris\Giris\obj\Debug\Giris.pdb
+C:\Users\Garwis\Desktop\p5\Giris\Giris\obj\Debug\Giris.Anasayfa.resources
+C:\Users\Garwis\Desktop\p5\Giris\Giris\obj\Debug\Giris.admingiris.resources
